@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://sathyam.me/archives/</loc>
+        <loc>http://intull.github.io/archives/</loc>
         <lastmod>2013-12-31T19:06:58+05:30</lastmod>
     </url>
     <url>
-        <loc>http://sathyam.me/blog/</loc>
+        <loc>http://intull.github.io/blog/</loc>
         <lastmod>2013-12-31T19:06:58+05:30</lastmod>
     </url>
     <url>
-        <loc>http://sathyam.me/about/</loc>
+        <loc>http://intull.github.io/about/</loc>
         <lastmod>2013-12-31T19:06:58+05:30</lastmod>
     </url>
     <url>
-        <loc>http://sathyam.me/</loc>
+        <loc>http://intull.github.io/</loc>
         <lastmod>2013-12-31T20:42:18+05:30</lastmod>
     </url>
 </urlset>
