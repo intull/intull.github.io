@@ -31,19 +31,32 @@
         <div class="nav">
             <nav>
     <ul class="navbar">
-        
-        <li><a href="/" ><span>Home</span></a></li>
-        
-        <li><a href="/blog/" ><span>Blog</span></a></li>
-        
-        <li><a href="/about/" ><span>About</span></a></li>
-        
-        <li><a href="/archives/"  class="nav-active" ><span>Archives</span></a></li>
-        
+        <div class="items">
+            
+            
+            <li><a href="/" ><span>Home</span></a></li>
+            
+            
+            
+            <li><a href="/blog/" ><span>Blog</span></a></li>
+            
+            
+            
+            <li><a href="/about/" ><span>About</span></a></li>
+            
+            
+            
+            <li><a href="/archives/"  class="nav-active" ><span>Archives</span></a></li>
+            
+            
+            
+            
+        </div>
+        <div class="s menu">≡</div>
     </ul>
 </nav>
         </div>
-        <hr>
+        <hr class="l">
         <div class="content">
             <div class="page">
     <div class="header">
@@ -66,5 +79,10 @@
         <div class="footer">
         </div>
     </div>
+    <script type="text/javascript">
+    $("div.menu").eq(0).click(function() {
+       $("div.items").eq(0).slideToggle(400);
+    });
+</script>
 </body>
 </html>
