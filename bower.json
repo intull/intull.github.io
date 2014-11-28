@@ -1,0 +1,23 @@
+{
+  "name": "intull.github.io",
+  "version": "0.0.1",
+  "homepage": "http://intull.github.io",
+  "authors": [
+    "Sathyam Vellal <sathyam.vellal@gmail.com>"
+  ],
+  "description": "The new Polymer website for sathyamvellal.in",
+  "keywords": [
+    "Polymer",
+    "material",
+    "design"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
